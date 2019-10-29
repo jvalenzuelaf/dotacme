@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "dotacme threat model",
+    "owner": "jose valenzuela",
+    "description": "A mobile app for itaibcs"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "jjvf"
+  }
+}
